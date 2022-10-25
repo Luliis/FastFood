@@ -1,0 +1,54 @@
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.AssemblyReference.cache
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_CadastroCliente.resources
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.Properties.Resources.resources
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.GenerateResource.cache
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.CoreCompileInputs.cache
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Principal.resources
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\BD_RequestSystem.mdf
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\BD_RequestSystem_log.ldf
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\BD_RequestSystem1.mdf
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\BD_RequestSystem1_log.ldf
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe.config
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.pdb
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.exe
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.pdb
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Funcionario.resources
+C:\Users\001.istefani\OneDrive - RODONAVES TRANSPORTES E ENCOMENDAS LTDA\Área de Trabalho\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_CadastroProduto.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\bin\Debug\Database1.mdf
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\bin\Debug\Database1_log.ldf
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe.config
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\bin\Debug\RequestSystem.pdb
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.AssemblyReference.cache
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Funcionario.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Principal.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.Properties.Resources.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.GenerateResource.cache
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.exe
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.pdb
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Tipo.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Cliente.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Login.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Produto.resources
+C:\Users\giovanni.mstefani\Desktop\Projeto em andamento 24.07.22\Fast Food\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Pedido.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\bin\Debug\Database1.mdf
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\bin\Debug\Database1_log.ldf
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe.config
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\bin\Debug\RequestSystem.exe
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\bin\Debug\RequestSystem.pdb
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.AssemblyReference.cache
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Cliente.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Funcionario.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Login.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Pedido.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Principal.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Produto.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.frm_Tipo.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.Properties.Resources.resources
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.GenerateResource.cache
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.exe
+C:\Users\giovanni.mstefani\Desktop\Fast Food - Atualizado\RequestSystem\RequestSystem\obj\Debug\RequestSystem.pdb

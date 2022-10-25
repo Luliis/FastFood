@@ -1,0 +1,7 @@
+PRIMEIRA TELA SERÁ UMA TELA PARA IR PRO ADM OU PARA O TOTEM DE CLIENTE
+
+criar uma tabela para combo somando o valor dos itens no combo e calculando uma porcentagem de desconto
+
+ta tabela tipo terá lanche, bebida, acompanhamento e combo
+
+arrumar a tabela itemcombo
